@@ -3,7 +3,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/TiagoBoavAmaral/TiagoBoavAmaral/blob/main/img/tiagoheader%20(1).jpg"/>
+<img align="center" alt="Header" src="SEU_LINK_DA_IMAGEM_AQUI"/>
 </div>
 
 -----
@@ -44,11 +44,11 @@
 -----
 
 <div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=21jrtsryk2t7fetd5w762l3hi&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=21jrtsryk2t7fetd5w762l3hi&count=10"/>
+    <a href="https://open.spotify.com/user/21jrtsryk2t7fetd5w762l3hi" target="_blank">
+        <img alt="Spotify Now Playing" width="400px" src="https://novatorem-psi-two.vercel.app/api/spotify"/>
+    </a>
 </div>
 
 -----
 
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=BernardoSilvaAndrade"/>
-
