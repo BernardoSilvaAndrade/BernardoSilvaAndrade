@@ -3,7 +3,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/TiagoBoavAmaral/TiagoBoavAmaral/blob/main/img/tiagoheader%20(1).jpg"/>
+<img align="center" alt="Header" src=""/>
 </div>
 
 -----
@@ -33,7 +33,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Bernardo</code>, tenho 18 anos, moro em Divinópolis - MG e estou estudando progamação. Atualmente sou <code>aluno</code> no curso de Engenharia De Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> no primeiro período.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Bernardo</code>, tenho 18 anos, moro em Divinópolis - MG e estou estudando progamação. Atualmente sou <code>aluno</code> no curso de Engenharia Da Computação na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> no primeiro período.</i> :man_teacher:<br />
 </div>
 
 -----
