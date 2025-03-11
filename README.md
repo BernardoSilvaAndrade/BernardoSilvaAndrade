@@ -3,7 +3,9 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/TiagoBoavAmaral/TiagoBoavAmaral/blob/main/img/tiagoheader%20(1).jpg"/>
+
+![download](https://github.com/user-attachments/assets/3970d788-5a71-4af1-8e88-bc3a81a8af5d)
+
 </div>
 
 -----
