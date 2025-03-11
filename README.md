@@ -59,7 +59,6 @@
 <a href="https://www.last.fm/pt/user/damppz" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=damppz&width=400"/></a>
 </div>
 <div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=hpsynelmervfb8ojbvijipw5d&cover_image=true&theme=default"/> &nbsp; &nbsp; 
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=hpsynelmervfb8ojbvijipw5d&count=10"/>
 </div>
 </div>
