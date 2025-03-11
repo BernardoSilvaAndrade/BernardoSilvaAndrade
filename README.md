@@ -51,7 +51,7 @@
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Bernardo's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=f0f407696d0c4de0" alt="Data Card for Spotify">
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=hpsynelmervfb8ojbvijipw5d" alt="Data Card for Spotify">
 </details>
 </div>
 <div>
@@ -59,8 +59,7 @@
 <a href="https://www.last.fm/pt/user/damppz" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=damppz&width=400"/></a>
 </div>
 <div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=hpsynelmervfb8ojbvijipw5d&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=hpsynelmervfb8ojbvijipw5d&count=10"/>
+
 </div>
 </div>
 
