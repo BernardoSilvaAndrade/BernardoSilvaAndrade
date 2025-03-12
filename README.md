@@ -24,6 +24,9 @@
 </td>
 <td><a href="https://www.instagram.com/bernardoo_andrade/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
+</td>
+<td><a href="https://www.linkedin.com/in/bernardo-silva-andrade-034599355/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+</td>
 
 </tr>
 <tr>
